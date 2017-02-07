@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'GeoFire-Python',
   packages = ['GeoFire'],
-  version = '0.2',
+  version = '0.3',
   description = 'A Firebase geo-query library for Python',
   author = 'Guanjiu Zhang',
   author_email = 'ininex@umich.edu',
