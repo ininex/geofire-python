@@ -7,7 +7,7 @@ setup(
   author = 'Guanjiu Zhang',
   author_email = 'ininex@umich.edu',
   url = 'https://github.com/ininex/geofire-python',
-  download_url = 'https://github.com/ininex/geofire-python/tarball/0.1',
+  download_url = 'https://github.com/ininex/geofire-python/tarball/0.3',
   keywords = ['firebase', 'geohash', 'geofire'],
   classifiers = [],
 )

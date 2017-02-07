@@ -1,5 +1,5 @@
 # geofire-python
-GeoFire for Python (v0.2)
+GeoFire for Python (v0.3)
 ====================
 A Firebase geo-query library: GeoFire for Python
 
