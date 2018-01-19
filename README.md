@@ -59,3 +59,17 @@ Usage Example
 ~~~~
     https://geofire-python-example.firebaseio.com/.json?print=pretty
 ~~~~
+
+>   * Type following rules in your Firebase Rules:
+
+~~~~
+{
+  "rules": {
+    ".read": true,
+    ".write": true,
+    "Locations": {
+       ".indexOn":"geohash"
+    }
+  }
+}
+~~~~
